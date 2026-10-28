@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Xianjin Lin — Signals, Models, Reproducibility</title>
+  <desc id="desc">A navy research-profile banner with abstract flowing lines as decoration.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#10243a"/>
+      <stop offset="1" stop-color="#153d58"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="16" fill="url(#background)"/>
+  <g fill="none" stroke-width="2">
+    <path d="M660 163 C705 163 706 96 751 96 S803 177 849 177 S902 78 948 78 S1007 146 1051 146 S1129 92 1200 92" stroke="#7dd3dc" opacity=".8"/>
+    <path d="M660 183 C723 183 733 124 784 124 S854 198 909 198 S990 107 1040 107 S1140 161 1200 161" stroke="#a6b8ea" opacity=".45"/>
+    <path d="M660 136 C734 136 754 61 808 61 S902 149 961 149 S1062 48 1128 48 S1175 69 1200 69" stroke="#7dd3dc" opacity=".25"/>
+  </g>
+  <rect x="52" y="54" width="42" height="4" rx="2" fill="#7dd3dc"/>
+  <text x="52" y="119" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="1" fill="#ffffff">XIANJIN LIN</text>
+  <text x="54" y="160" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2" fill="#b9d3e1">SIGNALS · MODELS · REPRODUCIBILITY</text>
+</svg>
