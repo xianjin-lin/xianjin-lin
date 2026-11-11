@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="assets/research-banner.svg" alt="Xianjin Lin — Signals, Models, Reproducibility" width="100%">
+  <img src="assets/research-motion.svg" alt="Animated research banner: an abstract oscillator, signal trace and connected model nodes. Decorative artwork, not research data." width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Xianjin Lin 👋</h1>
+<h1 align="center">Hi, I'm Xianjin Lin</h1>
 
 <p align="center">
-  <strong>Graduate Student · Qinghai University</strong><br>
-  Signal Processing · Deep Learning · Scientific Computing
+  Graduate student at <strong>Qinghai University</strong><br>
+  Nonlinear dynamics · Biomedical signals · Reproducible research
 </p>
-
-<p align="center">研究信号、构建模型、验证结果，也把解决过的问题整理成可复用的工具与文档。</p>
 
 <p align="center">
   <a href="#research">Research</a> ·
@@ -19,68 +17,37 @@
   <a href="https://github.com/xianjin-lin?tab=repositories">Repositories</a>
 </p>
 
----
-
-## 🔬 About Me
-
-I am a graduate student at Qinghai University interested in biomedical signal processing, deep learning, and computational sensing. I focus on understanding signals, evaluating models carefully, and building reproducible research workflows.
-
-Beyond research, I enjoy turning practical experience with Python, LaTeX, Docker, and development environments into useful tools and readable documentation.
+I explore mechanical dynamics and physiological signal processing through data-driven modelling and reproducible experiments.
 
 <a name="research"></a>
 
-## 🧭 Research Interests
+## Research
 
-| Area | Topics I explore |
-| :--- | :--- |
-| <strong>Physiological signals</strong> | PPG preprocessing, signal quality assessment, and heart-rate estimation |
-| <strong>Reliable machine learning</strong> | Model evaluation, robustness, and reproducible experiments |
-| <strong>Computational sensing</strong> | Magnetic-field-based current measurement and numerical analysis |
-| <strong>Research workflows</strong> | Scientific visualization, LaTeX typesetting, and reusable experiment tooling |
+- **Dynamics & vibration:** nonlinear systems and vibration analysis.
+- **Physiological signals:** PPG signal quality and heart-rate estimation.
+- **Reliable models:** selective prediction, robustness and careful evaluation.
 
 <a name="projects"></a>
 
-## 🚀 Selected Projects
+## Selected projects
 
-### ✉️ [QHU Cover Letter Template](https://github.com/xianjin-lin/QHU-Cover-Letter-Template)
-
-A LaTeX cover-letter template for academic manuscript submission, with Qinghai University letterhead, a watermark, and beginner-friendly setup and customization guides.
-
-<code>LaTeX</code> · <code>Academic Writing</code> · <code>Documentation</code>
-
-### 🏃 [Budao Lepao Notes](https://github.com/xianjin-lin/budao-lepao-notes)
-
-Chinese-language notes on practical usage experiences and common questions, organized as a reference for fellow students.
-
-<code>Chinese Notes</code> · <code>Practical Guides</code> · <code>Knowledge Sharing</code>
+| Project | What you can explore |
+| :--- | :--- |
+| [Selective PPG HR reporting](https://github.com/xianjin-lin/selective-ppg-hr-reporting) | Rhythm-specific coverage and reliable-output yield. [Interactive demo ↗](https://xianjin-lin.github.io/selective-ppg-hr-reporting/) |
+| [PPG initialisation × inference](https://github.com/xianjin-lin/ppg-initialisation-inference) | Paired evaluation and a synthetic recursion lab. [Research explorer ↗](https://xianjin-lin.github.io/ppg-initialisation-inference/) |
+| [QHU Cover Letter Template](https://github.com/xianjin-lin/QHU-Cover-Letter-Template) | A reusable LaTeX submission-letter template with university letterhead. |
 
 <a name="toolbox"></a>
 
-## 🛠️ Toolbox
+## Toolbox
 
-| Purpose | Tools |
-| :--- | :--- |
-| Programming & modeling | Python · PyTorch · NumPy · MATLAB |
-| Visualization & writing | Matplotlib · Inkscape · LaTeX · Overleaf |
-| Development & reproducibility | Git · GitHub · Docker · Linux · Windows / WSL2 |
+`Python` · `PyTorch` · `NumPy` · `MATLAB` · `Matplotlib` · `LaTeX` · `Git` · `Docker` · `Linux / WSL2`
 
-## 📌 Current Focus
-
-- Exploring signal-processing and machine-learning methods for physiological data.
-- Improving experimental evaluation, reproducibility, and scientific figures.
-- Documenting practical troubleshooting and turning research workflows into reusable resources.
-
-## 🤝 Connect & Collaborate
-
-Explore my [repositories](https://github.com/xianjin-lin?tab=repositories), or open an Issue in the relevant project to discuss a technical question or suggest an improvement.
-
-如果某个项目对你有帮助，欢迎点亮 ⭐ Star；也欢迎通过 Issues 分享问题、建议和使用经验。
+Questions or collaboration ideas? Open an issue in the relevant project.
 
 ---
 
-<p align="center"><em>Build carefully. Verify results. Share what is useful.</em></p>
-
 <p align="center">
-  <strong>志比昆仑，学竞江河</strong><br>
-  <sub>青海大学校训</sub>
+  <em>Build carefully. Verify results. Share what is useful.</em><br><br>
+  <strong>志比昆仑，学竞江河</strong>
 </p>
